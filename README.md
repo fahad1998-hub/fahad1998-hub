@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Fahad 👋
 
-<!--
-**fahad1998-hub/fahad1998-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Engineer | Node.js & TypeScript
 
-Here are some ideas to get you started:
+I build scalable backend systems, APIs, microservices,
+and data-intensive applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- Node.js / TypeScript
+- REST APIs / Microservices
+- MongoDB / PostgreSQL / Redis
+- Docker / AWS
+- Next.js
+- Payment & transaction workflows
+
+### Featured Projects
+
+🚀 BatchRunner
+High-throughput batch processing for heavy I/O workloads.
+
+💳 PayFlow
+Payment management platform with authentication,
+payment links and transaction workflows.
+
+📦 Inventory Hub
+Full-stack inventory and order management system
+with transactional stock handling.
+
+### Currently
+
+Building backend systems and exploring distributed
+systems, system design and cloud architecture.
+
+[https://www.linkedin.com/in/backendbyfahad/] • [] • [ashraffahad498@gmail.com]
