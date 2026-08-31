@@ -8,6 +8,8 @@ and data-intensive applications.
 ### What I work with
 
 - Node.js / TypeScript
+- AI Agents workflows
+- Agentic devOps
 - REST APIs / Microservices
 - MongoDB / PostgreSQL / Redis
 - Docker / AWS
@@ -26,6 +28,9 @@ payment links and transaction workflows.
 📦 Inventory Hub
 Full-stack inventory and order management system
 with transactional stock handling.
+
+Agentic Docker workflow and monitoring
+An Agentic AI DevOps assistant built with Strands Agents and Ollama.
 
 ### Currently
 
